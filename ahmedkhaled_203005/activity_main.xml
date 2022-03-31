@@ -17,7 +17,7 @@
         android:layout_centerVertical="true"
         android:background="#3458eb"
         android:padding="15dp"
-        android:text="Store"
+        android:text="Cart"
         android:textAlignment="center"
         android:textAllCaps="true"
         android:textColor="@color/white"
