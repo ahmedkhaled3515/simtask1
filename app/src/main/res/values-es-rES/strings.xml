@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SimProject1</string>
+    <string name="home_title">Categorías</string>
+    <string name="family_cat_text">Familia</string>
+    <string name="color_cat_text">Colores</string>
+    <string name="number_cat_text">Números</string>
+    <string name="phrases_cat_text">Frases</string>
+    <string name="more_text">Más</string>
+    <string name="feedback_title">Please share your feedback with us.</string>
+    <string name="name_hint">Introduzca su nombre aquí</string>
+    <string name="feedback_hint">"Ingrese sus comentarios aquí "</string>
+    <string name="submit_text">" Entregar"</string>
+    <string name="welcome_text">bienvenido <xliff id="name" example="amy">%s</xliff></string>
+    <string name="name_error">Por favor ingrese su nombre primero</string>
+    <string name="feedback_error">Por favor ingrese sus comentarios primero</string>
+</resources>
