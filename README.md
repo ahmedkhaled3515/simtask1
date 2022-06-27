@@ -1,5 +1,5 @@
 # simtask1
-Dictionary App
+Dictionary App translating basic english to arabic words and sentences with an elaborating image for each word and a record of it's right pronounciation.
 Home activity
 ![Screenshot_20220428_070824](https://user-images.githubusercontent.com/65148538/165681312-5f23a8c9-4f5b-4846-832f-f3e3009c69fc.png)
 Family activity
